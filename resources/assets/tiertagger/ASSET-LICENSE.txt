@@ -1,0 +1,3 @@
+Gamemode icons (textures/icons, textures/ui) and list logos (textures/logos) are adapted from the
+"Tiers" mod by Flavio6561 (https://github.com/PvPTiers/Tiers), licensed GPL-3.0.
+If you share this mod with others, it must be distributed under GPL-3.0 with source available.
